@@ -1,9 +1,8 @@
 
 public class CommunicationProtocol {
 
-	public String processInput(Object object) {
-		// TODO Auto-generated method stub
-		return "";
+	public String processInput(String message) {
+		return message;
 	}
 
 }
